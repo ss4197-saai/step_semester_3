@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class FirstNonRepeating {
+class FirstNonRepeatingW1 {
 
     static char findFirstNonRepeatingChar(String text) {
 
