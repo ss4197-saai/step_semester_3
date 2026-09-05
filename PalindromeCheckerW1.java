@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PalindromeChecker {
+class PalindromeCheckerW1 {
 
     // Method 1: Iterative
     static boolean isPalindromeIterative(String text) {
