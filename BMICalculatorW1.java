@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class BMICalculator {
+class BMICalculatorW1 {
 
     static String getBmiStatus(double bmi) {
 
