@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ReverseCustomerName {
+class ReverseCustomerNameW1 {
 
     static String reverseCustomerName(String customerName) {
 
