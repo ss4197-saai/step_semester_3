@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class RockPaperScissors {
+class RockPaperScissorsW1 {
 
     static String playRound(String playerMove, String computerMove) {
 
